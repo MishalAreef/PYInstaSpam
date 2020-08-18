@@ -12,7 +12,7 @@ Python program to spam messages using PyAutoGUI
 - $ Open Instagram DM 
 - $ python spammer.py 
 
-( Right after you press run application / python spammer.py click the textbox in the direct message ) 
+( Right after pressing run application / python spammer.py click the textbox in the direct message ) 
 
 ***Spamming of messages can lead to permanent block on Instagram so use it with caution
 
