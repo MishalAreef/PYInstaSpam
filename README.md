@@ -1,7 +1,7 @@
 # PYInstaSpam
 Python program to spam messages using PyAutoGUI
 
-![Alt Text](https://thumbs.gfycat.com/DelightfulSorrowfulGoose-max-1mb.gif)
+![Alt Text](https://thumbs.gfycat.com/LargeSaneGoose-size_restricted.gif)
 
 #INSTRUCTION
 
